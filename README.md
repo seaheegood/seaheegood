@@ -1,6 +1,6 @@
 <div align="center">
   
-  ![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=I'm%20Sehee%20Hong,%20studying%20back-end%20developing&fontSize=30&animation=fadeIn&desc=Hi!&descAlignY=75&descAlign=60&theme=merko)
+  ![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=I'm%20Sehee%20Hong,%20studying%20back-end%20developing&fontSize=30&animation=fadeIn&descAlignY=75&descAlign=60&theme=merko)
   
   <br>
 
